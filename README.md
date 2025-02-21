@@ -1,9 +1,10 @@
 # 🚽 Toilet Finder App  
 
 ## High-Fidelity Prototype  
-Designed the UI/UX prototype in Figma to guide the development process and ensure a smooth user flow.  
+I designed a user-friendly UI/UX prototype in Figma to ensure an intuitive and seamless experience.
 
-[🚽 View Toilet Finder Prototype](https://www.figma.com/proto/Ee3rD56v0rZDBC2iBg7nYN/Toilet-Finder-App?node-id=1-2&starting-point-node-id=1%3A2&t=jDZzQMQmirjJu24C-1)
+[🚀 Explore the Design Prototype](https://www.figma.com/proto/Ee3rD56v0rZDBC2iBg7nYN/Toilet-Finder-App?node-id=1-2&t=KVgNWBTbgfCMSipn-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
+
 
 ## Features  
 - Find nearby restrooms with ease  
