@@ -1,4 +1,4 @@
-# 🚽 Toilet Finder App  
+# 🚽 Toilet Finder App Figma Design
 
 ## High-Fidelity Prototype  
 I designed a user-friendly UI/UX prototype in Figma to ensure an intuitive and seamless experience.
